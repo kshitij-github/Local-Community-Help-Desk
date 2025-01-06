@@ -1,5 +1,4 @@
 package com.desk.main.entity;
-
 import java.time.LocalDateTime;
 
 import jakarta.persistence.Entity;
